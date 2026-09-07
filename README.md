@@ -1,16 +1,21 @@
-## Hi there 👋
+# Arianna Ruiz Vossirini
 
-<!--
-**avossirini9404/avossirini9404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Medical Physics · Computational Imaging · Monte Carlo**
 
-Here are some ideas to get you started:
+Medical physicist with a background in nuclear physics and experience in quantitative medical
+imaging, Monte Carlo radiation transport, and computational dosimetry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research interests:** quantitative SPECT/PET imaging, gamma-camera modelling, medical image
+analysis, radiation dosimetry, and machine learning for medical imaging.
+
+**Tools:** Python · Geant4/GAMOS · EGSnrc · MATLAB · C++ · MONAI · ImageJ/Fiji · Linux
+
+## Selected projects
+
+| Repository | Description |
+|---|---|
+
+
+**Profiles:** [ORCID](https://orcid.org/0009-0000-2557-9061) · [LinkedIn](https://www.linkedin.com/in/arianna-ruiz-vossirini-354226306/)
+
+
